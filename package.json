@@ -26,6 +26,9 @@
     "design"
   ],
   "dependencies": {},
+  "peerDependency": {
+    "bem-core": "^3.0.1"
+  },
   "devDependencies": {
     "bem-naming": "^1.0.1",
     "bem-walk": "^1.0.0-alpha1",
